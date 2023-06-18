@@ -2,7 +2,8 @@
 
 
 Hosted in Firebase:
-[https://netflix-clone-e23d2.web.app/](https://netflix-clone-by-devang.web.app/)
+[https://netflix-clone-by-devang.web.app/](https://netflix-clone-by-devang.web.app/)
+
 
 ##
 
