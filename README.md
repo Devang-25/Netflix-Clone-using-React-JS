@@ -1,6 +1,8 @@
 ## Demo
 
-https://netflix-clone-e23d2.web.app/
+
+Hosted in Firebase:
+[https://netflix-clone-e23d2.web.app/](https://netflix-clone-by-devang.web.app/)
 
 ##
 
